@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/_madhurima_das_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   
