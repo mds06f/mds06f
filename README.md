@@ -10,8 +10,8 @@
 ## 🌌 About Me
 
 - 🎓 CSE Student  
-- 🧠 Exploring **AI + Full Stack Development**  
-- 🎯 Goal: Crack **GATE / Scientist (NIC)** or land **15LPA+ Product Role**  
+- 🧠 Exploring **The World**  
+- 🎯 Goal: **Being Consistent**  
 - ⚡ Love building things that actually *matter*  
 
 ---
@@ -26,12 +26,8 @@
 
 ## 🚀 Featured Projects
 
-### 🌍 AI Geo-Intelligence System
-> Real-time news aggregation + sentiment analysis + region-based insights
-
-- 🧠 AI-powered classification  
-- 🌐 Live global monitoring  
-- 📊 Insight dashboards  
+### 🧮 Blog Application (on-going)
+> coming soon...
 
 ---
 
