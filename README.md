@@ -1,5 +1,5 @@
 <h1 align="center">✨ Madhurima Das ✨</h1>
-<h3 align="center">🚀 Full Stack Developer | Web Developer </h3>
+<h3 align="center">🚀 Full Stack Developer | Web Developer</h3>
 
 <p align="center">
   Building intelligent systems, scalable apps & aesthetic UIs 💫
@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧮 Blog Application (on-going)
+### 📝 Blog Application (on-going)
 > coming soon...
 
 ---
@@ -52,7 +52,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mds06f/mds06f/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/mds06f/mds06f/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -60,10 +60,25 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[#](https://www.linkedin.com/in/madhurima-das-7a2453248/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[#](https://www.instagram.com/_madhurima_das_/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="[#](https://www.hackerrank.com/profile/madhurimadas408)"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="madhurimadaswork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/madhurima-das-7a2453248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/_madhurima_das_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.hackerrank.com/profile/madhurimadas408" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  
+  <a href="mailto:madhurimadaswork@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
