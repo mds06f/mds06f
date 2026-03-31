@@ -52,7 +52,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mds06f/mds06f/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mds06f/mds06f/output/github-contribution-grid-snake.svg" alt="snake graph" />
 </p>
 
 ---
