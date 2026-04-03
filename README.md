@@ -10,7 +10,7 @@
 ## 🌌 About Me
 
 - 🎓 CSE Student  
-- 🧠 Exploring **The World**  
+- 🧠 Exploring: **The World**  
 - 🎯 Goal: **Being Consistent**  
 - ⚡ Love building things that actually *matter*  
 
