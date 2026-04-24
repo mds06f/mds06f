@@ -7,16 +7,18 @@
 
 ---
 
-## 🌌 About Me
+<h2>🌌 About Me</h2>
 
-- 🎓 CSE Student  
-- 🧠 Exploring: **The World**  
-- 🎯 Goal: **Being Consistent**  
-- ⚡ Love building things that actually *matter*  
+<ul>
+  <li>🎓 CSE Student</li>
+  <li>🧠 Exploring: <b>The World</b></li>
+  <li>🎯 Goal: <b>Being Consistent</b></li>
+  <li>⚡ Love building things that actually <i>matter</i></li>
+</ul>
 
 ---
 
-## 🧠 Tech Stack
+<h2>🧠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,mongodb,mysql,js,html,css,python,c,cpp,git,github" />
@@ -24,23 +26,36 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-### 📝 Blog Application (on-going)
-> coming soon...
+<h3>🍔 Food Ordering Website</h3>
+<p>
+A responsive and modern food ordering UI with clean design, menu display, and table booking section.
+</p>
+
+<ul>
+  <li>🛒 Interactive food menu</li>
+  <li>📱 Fully responsive UI</li>
+  <li>📅 Table booking system</li>
+  <li>🎨 Clean and aesthetic layout</li>
+</ul>
 
 ---
 
-### 🧮 Smart Calculator UI
-> Minimal + responsive calculator with clean UX
+<h3>🧮 Smart Calculator UI</h3>
+<p>
+Minimal + responsive calculator with clean UX
+</p>
 
-- ⚡ Fast interactions  
-- 🎨 Modern UI  
-- 📱 Mobile-friendly  
+<ul>
+  <li>⚡ Fast interactions</li>
+  <li>🎨 Modern UI</li>
+  <li>📱 Mobile-friendly</li>
+</ul>
 
 ---
 
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mds06f&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -49,25 +64,25 @@
 
 ---
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madhurima-das-7a2453248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.instagram.com/_madhurima_das_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.hackerrank.com/profile/madhurimadas408" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  
+
   <a href="https://leetcode.com/u/_madhurima_das_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  
+
   <a href="mailto:madhurimadaswork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -75,9 +90,11 @@
 
 ---
 
-## ✨ Quote I Live By
+<h2>✨ Quote I Live By</h2>
 
-> “Discipline will take me where motivation cannot.”
+<p align="center">
+  <i>“Discipline will take me where motivation cannot.”</i>
+</p>
 
 ---
 
