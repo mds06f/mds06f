@@ -48,9 +48,9 @@ Minimal + responsive calculator with clean UX
 </p>
 
 <ul>
-  <li>⚡ Fast interactions</li>
+  <li>⚡ Fast Interactions</li>
   <li>🎨 Modern UI</li>
-  <li>📱 Mobile-friendly</li>
+  <li>📱 Mobile-Friendly</li>
 </ul>
 
 ---
