@@ -22,7 +22,7 @@
 
 <ul>
   <li>🌟 Campus Ambassador & Contributor @ <b>GirlScript Summer of Code (GSSoC) 2026</b></li>
-
+  <li>🥇 AIR 14 @ <b>XAVSPARK Business Hackathon 2024</b></li>
 </ul>
 
 ---
