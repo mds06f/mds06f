@@ -1,5 +1,5 @@
 <h1 align="center">✨ Madhurima Das ✨</h1>
-<h3 align="center">🚀 Full Stack Developer | Web Developer</h3>
+<h3 align="center">🚀 Full Stack Developer (MERN) | Web Developer</h3>
 
 <p align="center">
   Building intelligent systems, scalable apps & aesthetic UIs 💫
