@@ -18,6 +18,15 @@
 
 ---
 
+<h2>🏆 Achievements</h2>
+
+<ul>
+  <li>🌟 Campus Ambassador & Contributor @ <b>GirlScript Summer of Code (GSSoC) 2026</b></li>
+
+</ul>
+
+---
+
 <h2>🧠 Tech Stack</h2>
 
 <p align="center">
