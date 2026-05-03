@@ -21,9 +21,9 @@
 <h2>🏆 Achievements</h2>
 
 <ul>
-  <li>🌟 Campus Ambassador & Contributor @ <b>GirlScript Summer of Code (GSSoC) 2026</b></li>
-  <li>🥇 AIR 14 @ <b>XAVSPARK Business Hackathon 2024</b></li>
   <li>💻 AIR 397 @ <b>HPE CodeWars 2021</b></li>
+  <li>🥇 AIR 14 @ <b>XAVSPARK Business Hackathon 2024</b></li>
+  <li>🌟 Campus Ambassador & Contributor @ <b>GirlScript Summer of Code (GSSoC) 2026</b></li>
 </ul>
 
 ---
