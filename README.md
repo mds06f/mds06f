@@ -10,7 +10,7 @@
 <h2>🌌 About Me</h2>
 
 <ul>
-  <li>🎓 CSE Student</li>
+  <li>🎓 Computer Science Engineering</li>
   <li>🧠 Exploring: <b>The World</b></li>
   <li>🎯 Goal: <b>Being Consistent</b></li>
   <li>⚡ Love building things that actually <i>matter</i></li>
