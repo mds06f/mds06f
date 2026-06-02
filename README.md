@@ -66,10 +66,11 @@ Minimal + responsive calculator with clean UX
 ---
 
 <h2>📊 GitHub Analytics</h2>
-
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">
-    <img  alt="Madhurima's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mds06f?cardType=level&fontFamily=&preferLogin=false" />
-  </a>
+  
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Alegreya%20SC&preferLogin=false">
+<img  alt="mds06f's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mds06f?cardType=github&theme=github-dark&fontFamily=Alegreya%20SC&preferLogin=false" />
+</a>
+  
 ---
 
 <h2>🌐 Connect With Me</h2>
