@@ -67,9 +67,9 @@ Minimal + responsive calculator with clean UX
 
 <h2>📊 GitHub Analytics</h2>
 
-<a href="https://playboxjs.com/tools/github/contribution-graph?username=playboxjs">
-  <img src="https://playboxjs.com/api/v1/github/contrib3d.php?user=playboxjs&theme=ocean&year=last" alt="3D Contribution Graph" />
-</a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">
+    <img  alt="Madhurima's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mds06f?cardType=level&fontFamily=&preferLogin=false" />
+  </a>
 ---
 
 <h2>🌐 Connect With Me</h2>
