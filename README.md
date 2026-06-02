@@ -67,11 +67,9 @@ Minimal + responsive calculator with clean UX
 
 <h2>📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mds06f&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mds06f&theme=tokyonight&hide_border=true"/>
-</p>
-
+<a href="https://playboxjs.com/tools/github/contribution-graph?username=playboxjs">
+  <img src="https://playboxjs.com/api/v1/github/contrib3d.php?user=playboxjs&theme=ocean&year=last" alt="3D Contribution Graph" />
+</a>
 ---
 
 <h2>🌐 Connect With Me</h2>
