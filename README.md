@@ -30,25 +30,10 @@
 ---
 
 <h2>🧠 Tech Stack</h2>
-<p>
-<picture>
-  <source srcset="https://github.com/mds06f/github_stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/mds06f/github_stats/blob/main/output/stats_commits.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/mds06f/github_stats/blob/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/mds06f/github_stats/blob/main/output/stats_langs.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/mds06f/github_stats/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/mds06f/github_stats/blob/main/output/stats_general.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/mds06f/github_stats/blob/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/mds06f/github_stats/blob/main/output/stats_visitors.svg">
-</picture>
-</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,mongodb,mysql,js,html,css,python,c,cpp,git,github" />
+</p>
 ---
 
 <h2>🚀 Featured Projects</h2>
