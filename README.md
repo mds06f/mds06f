@@ -67,6 +67,13 @@ Minimal + responsive calculator with clean UX
 
 <h2>📊 GitHub Analytics</h2>
 
+![](https://github-readme-stats.vercel.app/api?username=mds06f&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mds06f&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mds06f&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=mds06f&theme=react-dark&hide_border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <a href="https://playboxjs.com/tools/github/contribution-graph?username=playboxjs">
   <img src="https://playboxjs.com/api/v1/github/contrib3d.php?user=playboxjs&theme=ocean&year=last" alt="3D Contribution Graph" />
 </a>
