@@ -21,9 +21,11 @@
 <h2>🏆 Achievements</h2>
 
 <ul>
-  <li>💻 AIR 3 @ <b>HostelBird Hackathon</b></li>
+  <li>🥉 Rank 3 @ <b>HostelBird Hackathon 2026</b></li>
+  <li>🥉 Rank 3 @ <b>CodeStrike 2026</b></li>
   <li>💻 AIR 397 @ <b>HPE CodeWars 2021</b></li>
-  <li>🥇 AIR 14 @ <b>XAVSPARK Business Hackathon 2024</b></li>
+  <li>🏅 AIR 14 @ <b>XAVSPARK Business Hackathon 2024</b></li>
+  <li>🌟 Contributor @ <b>NSoC'26</b> and <b>ELUSoC'26</b></li>
   <li>🌟 Campus Ambassador & Contributor @ <b>GirlScript Summer of Code (GSSoC) 2026</b></li>
 </ul>
 
@@ -52,15 +54,16 @@ A responsive and modern food ordering UI with clean design, menu display, and ta
 
 ---
 
-<h3>🧮 Smart Calculator UI</h3>
+<h3>🌟 Open Source Contributor @ SnapPass-AI</h3>
 <p>
-Minimal + responsive calculator with clean UX
+Active open-source contributor with 10+ merged pull requests, working on localization, feature development, UI improvements, and bug fixes.
 </p>
 
 <ul>
-  <li>⚡ Fast Interactions</li>
-  <li>🎨 Modern UI</li>
-  <li>📱 Mobile Friendly</li>
+  <li>✅ 10+ Merged Pull Requests</li>
+  <li>🌐 Localization & Internationalization Contributions</li>
+  <li>🎨 Enhanced User Interface & User Experience</li>
+  <li>🤝 Collaborated with Maintainers Through Code Reviews</li>
 </ul>
 
 ---
