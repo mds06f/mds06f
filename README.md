@@ -69,11 +69,11 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
 ---
 
 <h2>📊 GitHub Analytics</h2>
-
-<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Alegreya%20SC&preferLogin=false">
   <img  alt="mds06f's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mds06f?cardType=github&theme=github dark&fontFamily=Alegreya%20SC&preferLogin=false" />
   </a>
+<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mds06f&layout=donut-vertical&theme=radical&langs_count=10&hide_border=true" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mds06f&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
