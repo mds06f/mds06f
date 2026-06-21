@@ -68,15 +68,15 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
 
 ---
 
-<h2>📊 GitHub Analytics</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=mds06f&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=githubdark&fontFamily=Alegreya%20SC&preferLogin=false">
-<img  alt="mds06f's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mds06f?cardType=github&theme=github dark&fontFamily=Alegreya%20SC&preferLogin=false" />
-</a>
-<p align="center">
+<h2 align="center">📊 GitHub Analytics</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mds06f&layout=donut-vertical&theme=radical&langs_count=10&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mds06f&theme=radical&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mds06f&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mds06f&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mds06f&layout=compact&theme=radical&hide_border=true" />
 </p>
   
 ---
