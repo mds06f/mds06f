@@ -70,13 +70,6 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mds06f&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
   <a href="https://git.io/awesome-stats-card">
     <img
       src="https://awesome-github-stats.azurewebsites.net/user-stats/mds06f?cardType=github&theme=github-dark&fontFamily=Alegreya%20SC&preferLogin=false"
@@ -87,7 +80,7 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mds06f&theme=radical&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mds06f&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
