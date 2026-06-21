@@ -80,9 +80,7 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mds06f&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+    src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mds06f&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
   
 ---
