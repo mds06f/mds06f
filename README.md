@@ -25,7 +25,7 @@
   <li>🥉 Rank 3 @ <b>CodeStrike 2026</b></li>
   <li>💻 AIR 397 @ <b>HPE CodeWars 2021</b></li>
   <li>🏅 AIR 14 @ <b>XAVSPARK Business Hackathon 2024</b></li>
-  <li>🌟 Contributor @ <b>NSoC'26</b> and <b>ELUSoC'26</b></li>
+  <li>🌟 Contributor @ <b>ELUSoC'26</b> 100+ merged PRs</li>
   <li>🌟 Campus Ambassador & Contributor @ <b>GirlScript Summer of Code (GSSoC) 2026</b></li>
 </ul>
 
@@ -110,7 +110,18 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
 </p>
 
 ---
+<h2>🌟 My ELUSOC 2026 Badges</h2>
 
+<a href="https://www.edulinkup.dev/elusoc/profile/mds06f">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="60" alt="Iron Developer" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="60" alt="Gold Engineer" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/diamond_architect.png" width="60" alt="Diamond Architect" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/end_conqueror.png" width="60" alt="End Conqueror" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/netherite_champion.png" width="60" alt="Netherite Champion" />
+</a>
+---
 <h2>✨ Quote I Live By</h2>
 
 <p align="center">
