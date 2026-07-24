@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,mongodb,mysql,js,html,css,python,c,cpp,git,github" />
 </p>
+
 ---
 
 <h2>🚀 Featured Projects</h2>
@@ -67,6 +68,7 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
 </ul>
 
 ---
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -110,6 +112,7 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
 </p>
 
 ---
+
 <h2>🌟 My ELUSOC 2026 Badges</h2>
 
 <a href="https://www.edulinkup.dev/elusoc/profile/mds06f">
@@ -123,6 +126,7 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
 </a>
 
 ---
+
 <h2>✨ Quote I Live By</h2>
 
 <p align="center">
