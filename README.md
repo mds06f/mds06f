@@ -121,6 +121,7 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/end_conqueror.png" width="60" alt="End Conqueror" />
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/netherite_champion.png" width="60" alt="Netherite Champion" />
 </a>
+
 ---
 <h2>✨ Quote I Live By</h2>
 
