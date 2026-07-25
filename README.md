@@ -4,7 +4,7 @@
 <p align="center">
   Building intelligent systems, scalable apps & aesthetic UIs 💫
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=mds06f&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 <h2>🌌 About Me</h2>
