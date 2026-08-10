@@ -25,7 +25,7 @@
   <li>🥉 Rank 3 @ <b>CodeStrike 2026</b></li>
   <li>💻 AIR 397 @ <b>HPE CodeWars 2021</b></li>
   <li>🏅 AIR 14 @ <b>XAVSPARK Business Hackathon 2024</b></li>
-  <li>🌟 Contributor @ <b>ELUSoC'26</b> 195+ merged PRs</li>
+  <li>🌟 Top Contributor @ <b>ELUSoC'26</b> 290+ merged PRs</li>
   <li>🌟 Campus Ambassador & Contributor @ <b>GirlScript Summer of Code (GSSoC) 2026</b></li>
 </ul>
 
