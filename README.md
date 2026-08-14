@@ -123,6 +123,7 @@ Active open-source contributor with 10+ merged pull requests, working on localiz
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/diamond_architect.png" width="60" alt="Diamond Architect" />
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/end_conqueror.png" width="60" alt="End Conqueror" />
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/netherite_champion.png" width="60" alt="Netherite Champion" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/repo_legend.png" width="60" alt="Repo Legend" />
 </a>
 
 ---
