@@ -21,9 +21,9 @@
 <h2>🏆 Achievements</h2>
 
 <ul>
+  <li>🏅 AIR 2 @ <b>COMSYS Hachathon-7</b> 2026</li>
   <li>🥉 Rank 3 @ <b>HostelBird Hackathon</b> 2026</li>
   <li>🥉 Rank 3 @ <b>CodeStrike</b> 2026</li>
-  <li>💻 AIR 397 @ <b>COMSYS Hachathon-7</b> 2026</li>
   <li>🏅 AIR 14 @ <b>XAVSPARK Business Hackathon</b> 2024</li>
   <li>💻 AIR 397 @ <b>HPE CodeWars</b> 2021</li>
   <li>🌟 Rank #4 Contributor @ <b>ELUSoC'26</b> 290+ merged PRs</li>
