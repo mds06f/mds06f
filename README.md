@@ -21,12 +21,13 @@
 <h2>🏆 Achievements</h2>
 
 <ul>
-  <li>🥉 Rank 3 @ <b>HostelBird Hackathon 2026</b></li>
-  <li>🥉 Rank 3 @ <b>CodeStrike 2026</b></li>
-  <li>💻 AIR 397 @ <b>HPE CodeWars 2021</b></li>
-  <li>🏅 AIR 14 @ <b>XAVSPARK Business Hackathon 2024</b></li>
+  <li>🥉 Rank 3 @ <b>HostelBird Hackathon</b> 2026</li>
+  <li>🥉 Rank 3 @ <b>CodeStrike</b> 2026</li>
+  <li>💻 AIR 397 @ <b>COMSYS Hachathon-7</b> 2026</li>
+  <li>🏅 AIR 14 @ <b>XAVSPARK Business Hackathon</b> 2024</li>
+  <li>💻 AIR 397 @ <b>HPE CodeWars</b> 2021</li>
   <li>🌟 Rank #4 Contributor @ <b>ELUSoC'26</b> 290+ merged PRs</li>
-  <li>🌟 Campus Ambassador & Contributor @ <b>GirlScript Summer of Code (GSSoC) 2026</b></li>
+  <li>🌟 Campus Ambassador & Contributor @ <b>GirlScript Summer of Code (GSSoC)</b> 2026</li>
 </ul>
 
 ---
